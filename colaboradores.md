@@ -1,3 +1,3 @@
-# Colaboradores de Palorganization
+# Colaboradores del proyecto:
 
-1- Palomino Martínez Fernando
+1. Palomino Martinez Fernando (palo@gmail.com)
